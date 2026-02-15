@@ -1,0 +1,3 @@
+This is my test of creating a webapp only using nvim
+except for the FE ill create that with AI b/c its easier
+
