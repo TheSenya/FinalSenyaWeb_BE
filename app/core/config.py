@@ -33,6 +33,9 @@ class Settings(BaseSettings):
     API_PREFIX: str = "/api"
     API_VERSION: str = "v1"
 
+    # KEY/Secrets
+    PASSCODE: str = "passcode"
+
     # Settings Config
     # This tells BaseSettings where to look for the environment variables
     # env_file: The path to the .env file
